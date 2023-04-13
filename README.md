@@ -6,4 +6,4 @@
 
 <p>If you're interested in trying these problems out for yourself, I encourage you to sign up for The Daily Byte daily problems here at <a href="https://thedailybyte.dev" target="_blank" rel="nofollow noreferrer noopener">The Daily Byte</a>, and try not to look at my code till after you've completed your own responses.</p>
 
-<aside>To be clear, I am not sponsored or anything, I just think they're doing a good thing :\)</aside>
+<p>To be clear, I am not sponsored or anything, I just think they're doing a good thing :)</p>
