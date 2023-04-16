@@ -6,3 +6,16 @@
 # "Calvin", return true
 # "compUter", return false
 # "coding", return true
+
+inputString = "THEDAILYBYTE"
+
+def correctCapitilisation(str):
+    if str.isupper() == True or str.islower() == True:
+        return True
+    else:
+        for i in range(1, len(str)):
+            if str[i].isupper() == True:
+                return False
+        return True
+
+print(correctCapitilisation(inputString))
