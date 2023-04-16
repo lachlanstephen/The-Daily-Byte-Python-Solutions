@@ -7,8 +7,8 @@
 # "11" + "1", return "100"
 # "1" + "0", return  "1"
 
-binStr1 = "1011"
-binStr2 = "1"
+binStr1 = "10001011"
+binStr2 = "101"
 
 def addBinary(str1, str2):
     return str(bin(int(str1, 2) + int(str2, 2)))[2:]
