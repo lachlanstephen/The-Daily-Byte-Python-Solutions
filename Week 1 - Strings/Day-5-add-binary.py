@@ -7,11 +7,10 @@
 # "11" + "1", return "100"
 # "1" + "0", return  "1"
 
-binStr1 = "1"
-binStr2 = "0"
+binStr1 = "1011"
+binStr2 = "1"
 
 def addBinary(str1, str2):
-    expression = str1 + " + " + str2
-    return str(eval(expression))
+    return str(bin(int(str1, 2) + int(str2, 2)))[2:]
 
 print(addBinary(binStr1, binStr2))
