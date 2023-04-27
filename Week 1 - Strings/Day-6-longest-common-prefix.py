@@ -7,7 +7,7 @@
 # ["a", "b", "c"], return ""
 # ["spot", "spotty", "spotted"], return "spot"
 
-wordArr = ["testament", "tester", "testical"]
+wordArr = ["testament", "tester", "testicle"]
 
 def longestCommonPrefix(arr):
     result = arr[0]
