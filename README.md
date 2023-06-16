@@ -1,6 +1,6 @@
 <h1>The Daily Byte Challenge - Python Solution</h1>
 
-<p><i>UPDATE</i>: It should be noted, I am now working and focusing on a C version of The Daily Byte solutions, since attending the 42 School Piscine, which is entirely in C.</p>
+<h3><i>UPDATE</i>: It should be noted, I am now working and focusing on a C version of The Daily Byte solutions, since attending the 42 School Piscine, which is entirely in C. My C solution repo can be found <a href="https://github.com/lachlanstephen/The-Daily-Byte-C-Solutions" rel="nofollow noreferrer noopener">here</a>.</h3>
 
 <p>These are my solutions to The Daily Byte daily problems. The Daily Byte solutions are currently offered in Java, however I am attempting to learn Python further, so thought I'd upload my python solutions as I go along.</p>
 
