@@ -1,5 +1,7 @@
 <h1>The Daily Byte Challenge - Python Solution</h1>
 
+<p><i>UPDATE</i>: It should be noted, I am now working and focusing on a C version of The Daily Byte solutions, since attending the 42 School Piscine, which is entirely in C.</p>
+
 <p>These are my solutions to The Daily Byte daily problems. The Daily Byte solutions are currently offered in Java, however I am attempting to learn Python further, so thought I'd upload my python solutions as I go along.</p>
 
 <p>If you see any issues with my code or think I could improve the solution (whether it be in regards to time or space complexity, or anything at all), please let me know! (Probably by forking my repo and putting your own solution up with comments for me to see).</p>

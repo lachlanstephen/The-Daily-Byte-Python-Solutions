@@ -10,12 +10,29 @@
 intArray = [3, 9, 13, 7, 4, 3, 8, 13, 2, 7, 9, 6]
 k = 19
 
+
+# My Solution
+# Time Complexity - O(N²)
+
 def twoSum(arr, tar):
     for i in range(len(arr)):
         for j in arr[i + 1:]:
             if arr[i] + j == tar:
-                print(str(arr[i]) + " + " + str(j))
                 return True
     return False
 
 print(twoSum(intArray, k))
+
+
+# Daily Byte Guided Solution
+
+def twoSumHash(arr, tar):
+    vals = {}
+    for i in range(len(arr)):
+        if vals.get(tar - arr[i]):
+            return True
+        else:
+            vals[arr[i]] = i
+    return False
+        
+print(twoSumHash(intArray, k))
